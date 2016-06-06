@@ -286,6 +286,7 @@
 				CD18B88B1CE1A323005BB2BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
